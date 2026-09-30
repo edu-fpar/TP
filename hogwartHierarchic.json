@@ -1,0 +1,289 @@
+{
+  "etudiants": {
+    "Gryffindor": [
+      {
+        "prenom": "Harry",
+        "nom": "Potter",
+        "notes": {
+          "potions": 12,
+          "herbologie": 14,
+          "divination": 10,
+          "transmutation": 18
+        }
+      },
+      {
+        "prenom": "Hermione",
+        "nom": "Granger",
+        "notes": {
+          "potions": 19,
+          "herbologie": 18,
+          "divination": 11,
+          "transmutation": 20
+        }
+      },
+      {
+        "prenom": "Ron",
+        "nom": "Weasley",
+        "notes": {
+          "potions": 8,
+          "herbologie": 10,
+          "divination": 9,
+          "transmutation": 11
+        }
+      },
+      {
+        "prenom": "Neville",
+        "nom": "Longbottom",
+        "notes": {
+          "potions": 9,
+          "herbologie": 19,
+          "divination": 8,
+          "transmutation": 10
+        }
+      },
+      {
+        "prenom": "Seamus",
+        "nom": "Finnigan",
+        "notes": {
+          "potions": 11,
+          "herbologie": 9,
+          "divination": 7,
+          "transmutation": 12
+        }
+      },
+      {
+        "prenom": "Dean",
+        "nom": "Thomas",
+        "notes": {
+          "potions": 10,
+          "herbologie": 11,
+          "divination": 6,
+          "transmutation": 10
+        }
+      },
+      {
+        "prenom": "Lavender",
+        "nom": "Brown",
+        "notes": {
+          "potions": 7,
+          "herbologie": 12,
+          "divination": 15,
+          "transmutation": 9
+        }
+      },
+      {
+        "prenom": "Parvati",
+        "nom": "Patil",
+        "notes": {
+          "potions": 8,
+          "herbologie": 13,
+          "divination": 16,
+          "transmutation": 11
+        }
+      }
+    ],
+    "Slytherin": [
+      {
+        "prenom": "Draco",
+        "nom": "Malfoy",
+        "notes": {
+          "potions": 16,
+          "herbologie": 12,
+          "divination": 7,
+          "transmutation": 15
+        }
+      },
+      {
+        "prenom": "Blaise",
+        "nom": "Zabini",
+        "notes": {
+          "potions": 14,
+          "herbologie": 9,
+          "divination": 6,
+          "transmutation": 13
+        }
+      },
+      {
+        "prenom": "Pansy",
+        "nom": "Parkinson",
+        "notes": {
+          "potions": 10,
+          "herbologie": 8,
+          "divination": 12,
+          "transmutation": 9
+        }
+      },
+      {
+        "prenom": "Theodore",
+        "nom": "Nott",
+        "notes": {
+          "potions": 13,
+          "herbologie": 10,
+          "divination": 8,
+          "transmutation": 14
+        }
+      },
+      {
+        "prenom": "Daphne",
+        "nom": "Greengrass",
+        "notes": {
+          "potions": 12,
+          "herbologie": 11,
+          "divination": 9,
+          "transmutation": 12
+        }
+      },
+      {
+        "prenom": "Millicent",
+        "nom": "Bulstrode",
+        "notes": {
+          "potions": 9,
+          "herbologie": 10,
+          "divination": 7,
+          "transmutation": 8
+        }
+      }
+    ],
+    "Hufflepuff": [
+      {
+        "prenom": "Cedric",
+        "nom": "Diggory",
+        "notes": {
+          "potions": 13,
+          "herbologie": 15,
+          "divination": 10,
+          "transmutation": 16
+        }
+      },
+      {
+        "prenom": "Zacharias",
+        "nom": "Smith",
+        "notes": {
+          "potions": 9,
+          "herbologie": 12,
+          "divination": 8,
+          "transmutation": 11
+        }
+      },
+      {
+        "prenom": "Ernie",
+        "nom": "Macmillan",
+        "notes": {
+          "potions": 11,
+          "herbologie": 14,
+          "divination": 7,
+          "transmutation": 12
+        }
+      },
+      {
+        "prenom": "Susan",
+        "nom": "Bones",
+        "notes": {
+          "potions": 10,
+          "herbologie": 13,
+          "divination": 9,
+          "transmutation": 10
+        }
+      },
+      {
+        "prenom": "Hannah",
+        "nom": "Abbott",
+        "notes": {
+          "potions": 8,
+          "herbologie": 16,
+          "divination": 11,
+          "transmutation": 9
+        }
+      },
+      {
+        "prenom": "Justin",
+        "nom": "Finch-Fletchley",
+        "notes": {
+          "potions": 9,
+          "herbologie": 11,
+          "divination": 6,
+          "transmutation": 10
+        }
+      }
+    ],
+    "Ravenclaw": [
+      {
+        "prenom": "Luna",
+        "nom": "Lovegood",
+        "notes": {
+          "potions": 10,
+          "herbologie": 13,
+          "divination": 18,
+          "transmutation": 14
+        }
+      },
+      {
+        "prenom": "Padma",
+        "nom": "Patil",
+        "notes": {
+          "potions": 12,
+          "herbologie": 14,
+          "divination": 13,
+          "transmutation": 15
+        }
+      },
+      {
+        "prenom": "Terry",
+        "nom": "Boot",
+        "notes": {
+          "potions": 15,
+          "herbologie": 10,
+          "divination": 8,
+          "transmutation": 13
+        }
+      },
+      {
+        "prenom": "Michael",
+        "nom": "Corner",
+        "notes": {
+          "potions": 11,
+          "herbologie": 9,
+          "divination": 10,
+          "transmutation": 12
+        }
+      },
+      {
+        "prenom": "Cho",
+        "nom": "Chang",
+        "notes": {
+          "potions": 9,
+          "herbologie": 12,
+          "divination": 12,
+          "transmutation": 14
+        }
+      }
+    ]
+  },
+  "professeurs": [
+    {
+      "prenom": "Severus",
+      "nom": "Snape",
+      "responsable": "Slytherin"
+    },
+    {
+      "prenom": "Minerva",
+      "nom": "McGonagall",
+      "responsable": "Gryffindor"
+    },
+    {
+      "prenom": "Pomona",
+      "nom": "Sprout",
+      "responsable": "Hufflepuff"
+    },
+    {
+      "prenom": "Sybill",
+      "nom": "Trelawney",
+      "responsable": null
+    },
+    {
+      "prenom": "Filius",
+      "nom": "Flitwick",
+      "responsable": "Ravenclaw"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "syndic": {
+    "nom": "Syndic Gestion Habitat",
+    "residences": [
+      {
+        "id": "RES001",
+        "nom": "Résidence Les Oliviers",
+        "adresse": {
+          "rue": "12 avenue des Oliviers",
+          "codePostal": "13008",
+          "ville": "Marseille"
+        },
+        "appartements": [
+          {
+            "id": "APT001",
+            "numero": "A01",
+            "etage": 0,
+            "surface": 45,
+            "coproprietaires": [
+              {
+                "id": "COP001",
+                "civilite": "Mme",
+                "prenom": "Fatima",
+                "nom": "Benali",
+                "telephone": "06 12 34 56 78",
+                "email": "fatima.benali@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK001",
+              "numero": "P01",
+              "niveau": -1
+            }
+          },
+          {
+            "id": "APT002",
+            "numero": "A02",
+            "etage": 1,
+            "surface": 68,
+            "coproprietaires": [
+              {
+                "id": "COP002",
+                "civilite": "M.",
+                "prenom": "Jean-Luc",
+                "nom": "Moreau",
+                "telephone": "06 23 45 67 89",
+                "email": "jl.moreau@email.fr"
+              },
+              {
+                "id": "COP003",
+                "civilite": "Mme",
+                "prenom": "Sofia",
+                "nom": "Garcia",
+                "telephone": "06 34 56 78 90",
+                "email": "sofia.garcia@email.fr"
+              }
+            ],
+            "parking": null
+          },
+          {
+            "id": "APT003",
+            "numero": "A03",
+            "etage": 2,
+            "surface": 82,
+            "coproprietaires": [
+              {
+                "id": "COP004",
+                "civilite": "M.",
+                "prenom": "Kofi",
+                "nom": "Mensah",
+                "telephone": "06 45 67 89 01",
+                "email": "kofi.mensah@email.fr"
+              },
+              {
+                "id": "COP005",
+                "civilite": "Mme",
+                "prenom": "Mei",
+                "nom": "Chen",
+                "telephone": "06 56 78 90 12",
+                "email": "mei.chen@email.fr"
+              },
+              {
+                "id": "COP006",
+                "civilite": "M.",
+                "prenom": "Ivan",
+                "nom": "Petrov",
+                "telephone": "06 67 89 01 23",
+                "email": "ivan.petrov@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK002",
+              "numero": "P02",
+              "niveau": -1
+            }
+          }
+        ]
+      },
+      {
+        "id": "RES002",
+        "nom": "Résidence Bellevue",
+        "adresse": {
+          "rue": "8 rue de la Colline",
+          "codePostal": "69003",
+          "ville": "Lyon"
+        },
+        "appartements": [
+          {
+            "id": "APT004",
+            "numero": "B01",
+            "etage": 0,
+            "surface": 52,
+            "coproprietaires": [
+              {
+                "id": "COP007",
+                "civilite": "Mme",
+                "prenom": "Aïcha",
+                "nom": "Diallo",
+                "telephone": "06 78 90 12 34",
+                "email": "aicha.diallo@email.fr"
+              },
+              {
+                "id": "COP002",
+                "civilite": "M.",
+                "prenom": "Jean-Luc",
+                "nom": "Moreau",
+                "telephone": "06 23 45 67 89",
+                "email": "jl.moreau@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK003",
+              "numero": "P03",
+              "niveau": 0
+            }
+          },
+          {
+            "id": "APT005",
+            "numero": "B02",
+            "etage": 1,
+            "surface": 75,
+            "coproprietaires": [
+              {
+                "id": "COP008",
+                "civilite": "M.",
+                "prenom": "Lars",
+                "nom": "Andersen",
+                "telephone": "06 89 01 23 45",
+                "email": "lars.andersen@email.fr"
+              }
+            ],
+            "parking": null
+          },
+          {
+            "id": "APT006",
+            "numero": "B03",
+            "etage": 2,
+            "surface": 95,
+            "coproprietaires": [
+              {
+                "id": "COP009",
+                "civilite": "Mme",
+                "prenom": "Priya",
+                "nom": "Sharma",
+                "telephone": "06 90 12 34 56",
+                "email": "priya.sharma@email.fr"
+              },
+              {
+                "id": "COP010",
+                "civilite": "M.",
+                "prenom": "Rachid",
+                "nom": "El Amrani",
+                "telephone": "06 01 23 45 67",
+                "email": "rachid.elamrani@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK004",
+              "numero": "P04",
+              "niveau": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "RES003",
+        "nom": "Résidence des Tilleuls",
+        "adresse": {
+          "rue": "25 boulevard des Tilleuls",
+          "codePostal": "33000",
+          "ville": "Bordeaux"
+        },
+        "appartements": [
+          {
+            "id": "APT007",
+            "numero": "C01",
+            "etage": 0,
+            "surface": 40,
+            "coproprietaires": [
+              {
+                "id": "COP011",
+                "civilite": "Mme",
+                "prenom": "Élise",
+                "nom": "Dubois",
+                "telephone": "06 11 22 33 44",
+                "email": "elise.dubois@email.fr"
+              }
+            ],
+            "parking": null
+          },
+          {
+            "id": "APT008",
+            "numero": "C02",
+            "etage": 1,
+            "surface": 63,
+            "coproprietaires": [
+              {
+                "id": "COP012",
+                "civilite": "M.",
+                "prenom": "Hiroshi",
+                "nom": "Tanaka",
+                "telephone": "06 22 33 44 55",
+                "email": "hiroshi.tanaka@email.fr"
+              },
+              {
+                "id": "COP013",
+                "civilite": "Mme",
+                "prenom": "Yuki",
+                "nom": "Tanaka",
+                "telephone": "06 33 44 55 66",
+                "email": "yuki.tanaka@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK005",
+              "numero": "P05",
+              "niveau": -1
+            }
+          },
+          {
+            "id": "APT009",
+            "numero": "C03",
+            "etage": 2,
+            "surface": 88,
+            "coproprietaires": [
+              {
+                "id": "COP014",
+                "civilite": "M.",
+                "prenom": "Diego",
+                "nom": "Fernandez",
+                "telephone": "06 44 55 66 77",
+                "email": "diego.fernandez@email.fr"
+              },
+              {
+                "id": "COP001",
+                "civilite": "Mme",
+                "prenom": "Fatima",
+                "nom": "Benali",
+                "telephone": "06 12 34 56 78",
+                "email": "fatima.benali@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK006",
+              "numero": "P06",
+              "niveau": -1
+            }
+          }
+        ]
+      },
+      {
+        "id": "RES004",
+        "nom": "Résidence du Parc",
+        "adresse": {
+          "rue": "3 allée du Parc",
+          "codePostal": "44000",
+          "ville": "Nantes"
+        },
+        "appartements": [
+          {
+            "id": "APT010",
+            "numero": "D01",
+            "etage": 0,
+            "surface": 58,
+            "coproprietaires": [
+              {
+                "id": "COP015",
+                "civilite": "Mme",
+                "prenom": "Ingrid",
+                "nom": "Johansson",
+                "telephone": "06 55 66 77 88",
+                "email": "ingrid.johansson@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK007",
+              "numero": "P07",
+              "niveau": 0
+            }
+          },
+          {
+            "id": "APT011",
+            "numero": "D02",
+            "etage": 1,
+            "surface": 72,
+            "coproprietaires": [
+              {
+                "id": "COP016",
+                "civilite": "M.",
+                "prenom": "Samuel",
+                "nom": "Nkomo",
+                "telephone": "06 66 77 88 99",
+                "email": "samuel.nkomo@email.fr"
+              },
+              {
+                "id": "COP009",
+                "civilite": "Mme",
+                "prenom": "Priya",
+                "nom": "Sharma",
+                "telephone": "06 90 12 34 56",
+                "email": "priya.sharma@email.fr"
+              }
+            ],
+            "parking": null
+          },
+          {
+            "id": "APT012",
+            "numero": "D03",
+            "etage": 2,
+            "surface": 105,
+            "coproprietaires": [
+              {
+                "id": "COP017",
+                "civilite": "M.",
+                "prenom": "Antoine",
+                "nom": "Lefèvre",
+                "telephone": "06 77 88 99 00",
+                "email": "antoine.lefevre@email.fr"
+              },
+              {
+                "id": "COP018",
+                "civilite": "Mme",
+                "prenom": "Camille",
+                "nom": "Lefèvre",
+                "telephone": "06 88 99 00 11",
+                "email": "camille.lefevre@email.fr"
+              },
+              {
+                "id": "COP019",
+                "civilite": "M.",
+                "prenom": "Omar",
+                "nom": "Haddad",
+                "telephone": "06 99 00 11 22",
+                "email": "omar.haddad@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK008",
+              "numero": "P08",
+              "niveau": -1
+            }
+          }
+        ]
+      },
+      {
+        "id": "RES005",
+        "nom": "Résidence Sainte-Catherine",
+        "adresse": {
+          "rue": "17 rue Sainte-Catherine",
+          "codePostal": "67000",
+          "ville": "Strasbourg"
+        },
+        "appartements": [
+          {
+            "id": "APT013",
+            "numero": "E01",
+            "etage": 0,
+            "surface": 49,
+            "coproprietaires": [
+              {
+                "id": "COP020",
+                "civilite": "Mme",
+                "prenom": "Anastasia",
+                "nom": "Volkova",
+                "telephone": "06 10 20 30 40",
+                "email": "anastasia.volkova@email.fr"
+              },
+              {
+                "id": "COP005",
+                "civilite": "Mme",
+                "prenom": "Mei",
+                "nom": "Chen",
+                "telephone": "06 56 78 90 12",
+                "email": "mei.chen@email.fr"
+              }
+            ],
+            "parking": null
+          },
+          {
+            "id": "APT014",
+            "numero": "E02",
+            "etage": 1,
+            "surface": 67,
+            "coproprietaires": [
+              {
+                "id": "COP021",
+                "civilite": "M.",
+                "prenom": "Thomas",
+                "nom": "Müller",
+                "telephone": "06 20 30 40 50",
+                "email": "thomas.muller@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK009",
+              "numero": "P09",
+              "niveau": 0
+            }
+          },
+          {
+            "id": "APT015",
+            "numero": "E03",
+            "etage": 2,
+            "surface": 91,
+            "coproprietaires": [
+              {
+                "id": "COP022",
+                "civilite": "Mme",
+                "prenom": "Lucia",
+                "nom": "Rossi",
+                "telephone": "06 30 40 50 60",
+                "email": "lucia.rossi@email.fr"
+              },
+              {
+                "id": "COP023",
+                "civilite": "M.",
+                "prenom": "Marco",
+                "nom": "Rossi",
+                "telephone": "06 40 50 60 70",
+                "email": "marco.rossi@email.fr"
+              }
+            ],
+            "parking": {
+              "id": "PK010",
+              "numero": "P10",
+              "niveau": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

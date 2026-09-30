@@ -1,0 +1,424 @@
+{
+  "gestionnaire": "Cabinet Patrimoine & Investissement",
+  "clients": [
+    {
+      "id": "CLI001",
+      "civilite": "Mme",
+      "prenom": "Aminata",
+      "nom": "Diallo",
+      "email": "aminata.diallo@email.fr",
+      "telephone": "06 12 34 56 78",
+      "portefeuilles": [
+        {
+          "id": "PF001",
+          "nom": "Portefeuille Retraite",
+          "devise": "EUR",
+          "dateOuverture": "2023-01-15",
+          "positions": [
+            {
+              "id": "POS001",
+              "ticker": "MC.PA",
+              "nom": "LVMH",
+              "type": "Action",
+              "dateAchat": "2023-03-01",
+              "prixUnitaire": 783.90,
+              "quantite": 10,
+              "montantAchat": 7839.00,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS002",
+              "ticker": "TTE.PA",
+              "nom": "TotalEnergies",
+              "type": "Action",
+              "dateAchat": "2023-05-01",
+              "prixUnitaire": 44.62,
+              "quantite": 120,
+              "montantAchat": 5354.40,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS003",
+              "ticker": "SAN.PA",
+              "nom": "Sanofi",
+              "type": "Action",
+              "dateAchat": "2023-06-01",
+              "prixUnitaire": 85.53,
+              "quantite": 60,
+              "montantAchat": 5131.80,
+              "devise": "EUR"
+            }
+          ]
+        },
+        {
+          "id": "PF002",
+          "nom": "Portefeuille Croissance",
+          "devise": "EUR",
+          "dateOuverture": "2024-01-10",
+          "positions": [
+            {
+              "id": "POS004",
+              "ticker": "AAPL",
+              "nom": "Apple Inc.",
+              "type": "Action",
+              "dateAchat": "2024-02-01",
+              "prixUnitaire": 178.80,
+              "quantite": 40,
+              "montantAchat": 7152.00,
+              "devise": "USD"
+            },
+            {
+              "id": "POS005",
+              "ticker": "MSFT",
+              "nom": "Microsoft Corp.",
+              "type": "Action",
+              "dateAchat": "2024-04-01",
+              "prixUnitaire": 381.90,
+              "quantite": 15,
+              "montantAchat": 5728.50,
+              "devise": "USD"
+            },
+            {
+              "id": "POS006",
+              "ticker": "BTC-USD",
+              "nom": "Bitcoin",
+              "type": "Crypto",
+              "dateAchat": "2024-05-01",
+              "prixUnitaire": 67491.41,
+              "quantite": 0.15,
+              "montantAchat": 10123.71,
+              "devise": "USD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLI002",
+      "civilite": "M.",
+      "prenom": "Hiroshi",
+      "nom": "Tanaka",
+      "email": "hiroshi.tanaka@email.fr",
+      "telephone": "06 23 45 67 89",
+      "portefeuilles": [
+        {
+          "id": "PF003",
+          "nom": "Portefeuille Équilibré",
+          "devise": "EUR",
+          "dateOuverture": "2022-09-01",
+          "positions": [
+            {
+              "id": "POS007",
+              "ticker": "AIR.PA",
+              "nom": "Airbus",
+              "type": "Action",
+              "dateAchat": "2022-10-01",
+              "prixUnitaire": 101.97,
+              "quantite": 80,
+              "montantAchat": 8157.60,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS008",
+              "ticker": "KO",
+              "nom": "Coca-Cola",
+              "type": "Action",
+              "dateAchat": "2023-01-01",
+              "prixUnitaire": 54.96,
+              "quantite": 100,
+              "montantAchat": 5496.00,
+              "devise": "USD"
+            },
+            {
+              "id": "POS009",
+              "ticker": "MC.PA",
+              "nom": "LVMH",
+              "type": "Action",
+              "dateAchat": "2023-04-01",
+              "prixUnitaire": 814.92,
+              "quantite": 8,
+              "montantAchat": 6519.36,
+              "devise": "EUR"
+            }
+          ]
+        },
+        {
+          "id": "PF004",
+          "nom": "Portefeuille Technologie",
+          "devise": "USD",
+          "dateOuverture": "2024-06-01",
+          "positions": [
+            {
+              "id": "POS010",
+              "ticker": "AAPL",
+              "nom": "Apple Inc.",
+              "type": "Action",
+              "dateAchat": "2024-07-01",
+              "prixUnitaire": 219.98,
+              "quantite": 25,
+              "montantAchat": 5499.50,
+              "devise": "USD"
+            },
+            {
+              "id": "POS011",
+              "ticker": "MSFT",
+              "nom": "Microsoft Corp.",
+              "type": "Action",
+              "dateAchat": "2024-08-01",
+              "prixUnitaire": 410.65,
+              "quantite": 12,
+              "montantAchat": 4927.80,
+              "devise": "USD"
+            },
+            {
+              "id": "POS012",
+              "ticker": "ETH-USD",
+              "nom": "Ethereum",
+              "type": "Crypto",
+              "dateAchat": "2024-09-01",
+              "prixUnitaire": 2603.06,
+              "quantite": 1.5,
+              "montantAchat": 3904.59,
+              "devise": "USD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLI003",
+      "civilite": "M.",
+      "prenom": "Lars",
+      "nom": "Andersen",
+      "email": "lars.andersen@email.fr",
+      "telephone": "06 34 56 78 90",
+      "portefeuilles": [
+        {
+          "id": "PF005",
+          "nom": "Portefeuille Prudent",
+          "devise": "EUR",
+          "dateOuverture": "2021-11-01",
+          "positions": [
+            {
+              "id": "POS013",
+              "ticker": "SAN.PA",
+              "nom": "Sanofi",
+              "type": "Action",
+              "dateAchat": "2021-11-01",
+              "prixUnitaire": 67.68,
+              "quantite": 150,
+              "montantAchat": 10152.00,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS014",
+              "ticker": "TTE.PA",
+              "nom": "TotalEnergies",
+              "type": "Action",
+              "dateAchat": "2022-01-01",
+              "prixUnitaire": 38.84,
+              "quantite": 200,
+              "montantAchat": 7768.00,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS015",
+              "ticker": "KO",
+              "nom": "Coca-Cola",
+              "type": "Action",
+              "dateAchat": "2022-03-01",
+              "prixUnitaire": 54.39,
+              "quantite": 120,
+              "montantAchat": 6526.80,
+              "devise": "USD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLI004",
+      "civilite": "Mme",
+      "prenom": "Priya",
+      "nom": "Sharma",
+      "email": "priya.sharma@email.fr",
+      "telephone": "06 45 67 89 01",
+      "portefeuilles": [
+        {
+          "id": "PF006",
+          "nom": "Portefeuille Diversifié",
+          "devise": "EUR",
+          "dateOuverture": "2023-02-01",
+          "positions": [
+            {
+              "id": "POS016",
+              "ticker": "MC.PA",
+              "nom": "LVMH",
+              "type": "Action",
+              "dateAchat": "2023-02-01",
+              "prixUnitaire": 732.47,
+              "quantite": 12,
+              "montantAchat": 8789.64,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS017",
+              "ticker": "AIR.PA",
+              "nom": "Airbus",
+              "type": "Action",
+              "dateAchat": "2023-07-01",
+              "prixUnitaire": 126.46,
+              "quantite": 50,
+              "montantAchat": 6323.00,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS018",
+              "ticker": "BA",
+              "nom": "Boeing",
+              "type": "Action",
+              "dateAchat": "2023-09-01",
+              "prixUnitaire": 191.68,
+              "quantite": 30,
+              "montantAchat": 5750.40,
+              "devise": "USD"
+            }
+          ]
+        },
+        {
+          "id": "PF007",
+          "nom": "Portefeuille Crypto",
+          "devise": "USD",
+          "dateOuverture": "2024-10-01",
+          "positions": [
+            {
+              "id": "POS019",
+              "ticker": "BTC-USD",
+              "nom": "Bitcoin",
+              "type": "Crypto",
+              "dateAchat": "2024-10-01",
+              "prixUnitaire": 70215.19,
+              "quantite": 0.25,
+              "montantAchat": 17553.80,
+              "devise": "USD"
+            },
+            {
+              "id": "POS020",
+              "ticker": "SOL-USD",
+              "nom": "Solana",
+              "type": "Crypto",
+              "dateAchat": "2024-11-01",
+              "prixUnitaire": 237.74,
+              "quantite": 40,
+              "montantAchat": 9509.60,
+              "devise": "USD"
+            },
+            {
+              "id": "POS021",
+              "ticker": "AVAX-USD",
+              "nom": "Avalanche",
+              "type": "Crypto",
+              "dateAchat": "2024-12-01",
+              "prixUnitaire": 35.69,
+              "quantite": 150,
+              "montantAchat": 5353.50,
+              "devise": "USD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CLI005",
+      "civilite": "M.",
+      "prenom": "Diego",
+      "nom": "Fernandez",
+      "email": "diego.fernandez@email.fr",
+      "telephone": "06 56 78 90 12",
+      "portefeuilles": [
+        {
+          "id": "PF008",
+          "nom": "Portefeuille Long Terme",
+          "devise": "EUR",
+          "dateOuverture": "2022-04-01",
+          "positions": [
+            {
+              "id": "POS022",
+              "ticker": "TTE.PA",
+              "nom": "TotalEnergies",
+              "type": "Action",
+              "dateAchat": "2022-04-01",
+              "prixUnitaire": 37.05,
+              "quantite": 250,
+              "montantAchat": 9262.50,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS023",
+              "ticker": "SAN.PA",
+              "nom": "Sanofi",
+              "type": "Action",
+              "dateAchat": "2022-08-01",
+              "prixUnitaire": 69.00,
+              "quantite": 100,
+              "montantAchat": 6900.00,
+              "devise": "EUR"
+            },
+            {
+              "id": "POS024",
+              "ticker": "MSFT",
+              "nom": "Microsoft Corp.",
+              "type": "Action",
+              "dateAchat": "2022-11-01",
+              "prixUnitaire": 247.61,
+              "quantite": 20,
+              "montantAchat": 4952.20,
+              "devise": "USD"
+            }
+          ]
+        },
+        {
+          "id": "PF009",
+          "nom": "Portefeuille Alternatif",
+          "devise": "USD",
+          "dateOuverture": "2024-03-01",
+          "positions": [
+            {
+              "id": "POS025",
+              "ticker": "ADA-USD",
+              "nom": "Cardano",
+              "type": "Crypto",
+              "dateAchat": "2024-03-01",
+              "prixUnitaire": 0.65043,
+              "quantite": 8000,
+              "montantAchat": 5203.44,
+              "devise": "USD"
+            },
+            {
+              "id": "POS026",
+              "ticker": "ETH-USD",
+              "nom": "Ethereum",
+              "type": "Crypto",
+              "dateAchat": "2024-06-01",
+              "prixUnitaire": 3432.89,
+              "quantite": 1.2,
+              "montantAchat": 4119.47,
+              "devise": "USD"
+            },
+            {
+              "id": "POS027",
+              "ticker": "AAPL",
+              "nom": "Apple Inc.",
+              "type": "Action",
+              "dateAchat": "2024-09-01",
+              "prixUnitaire": 231.07,
+              "quantite": 30,
+              "montantAchat": 6932.10,
+              "devise": "USD"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
